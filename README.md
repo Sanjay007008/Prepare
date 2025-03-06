@@ -17,3 +17,5 @@ Cpp Cheat Sheet - https://medium.com/alokkumar95/cpp-cheatsheet-359c0c8a1519
                   https://github.com/pritmanvar/DSA-with-CPP?tab=readme-ov-file
 
                   https://github.com/mortennobel/cpp-cheatsheet
+
+                  https://gist.github.com/PrinceSinghhub/c74372270cf45df2087816a75c87bb06

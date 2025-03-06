@@ -13,3 +13,7 @@ Cpp Cheat Sheet - https://medium.com/alokkumar95/cpp-cheatsheet-359c0c8a1519
                   https://github.com/shubhanshurav/Interview-Preparation-Notes
 
                   https://github.com/The-CODE-Plus-Plus-Community/Competitive-Programming-and-DSA/blob/main/ROADMAP.md
+
+                  https://github.com/pritmanvar/DSA-with-CPP?tab=readme-ov-file
+
+                  https://github.com/mortennobel/cpp-cheatsheet
